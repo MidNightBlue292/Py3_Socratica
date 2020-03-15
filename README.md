@@ -9,3 +9,8 @@ Aprendendo a programar Python3 - Socratica
  
  004 Sets in Python
  
+ 005 Python Dictionaries
+ 
+ 006 Python Tuples
+ 
+ 007 Logging in Python 
